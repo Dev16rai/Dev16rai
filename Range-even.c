@@ -1,5 +1,5 @@
 
-/*<<<<<-----A55 Bhumika-----.>>>>>.*/
+/*<<<<<-----DEV rai ----.>>>>>.*/
 #include<stdio.h>
 int main()
 {
@@ -11,7 +11,7 @@ scanf("%d %d",&a,&b);
 printf("print the number in even :");
 while (a<=b)
 {
-    if(a%2=0)
+    if(a%2==1)
     printf("%d\n",a);
     a++;
 }
