@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Dev16rai
 - 👀 insta i'd thedevrai16
 - linkdin i'd  Dev Rai
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 very curious about learning ...
+- 🌱 Learning C++
+- 💻 Practicing DSA
+- 💞️ I’m looking to collaborate on 
+- 📫 very curious about learning 
 
 <!---
 Dev16rai/Dev16rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
