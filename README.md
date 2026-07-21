@@ -23,22 +23,22 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,Canva" />
 </p>
 
 ---
@@ -90,9 +90,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p>
 
-<a href="https://github.com/Dev16rai">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+
 
 <a href="https://www.linkedin.com/in/dev-rai-1069b4256/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
