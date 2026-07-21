@@ -38,7 +38,14 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,Canva" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="48" height="48"/>
+  </a>
 </p>
 
 ---
@@ -58,9 +65,9 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev16rai&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dev16rai&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev16rai&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev16rai&layout=compact&theme=tokyonight"/>
 
 </p>
 
