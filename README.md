@@ -1,12 +1,105 @@
-- 👋 Hi, I’m @Dev16rai
-- 👀 insta i'd thedevrai16
-- linkdin i'd  Dev Rai
-- 🌱 Learning C++
-- 💻 Practicing DSA
-- 💞️ I’m looking to collaborate on 
-- 📫 very curious about learning 
+<h1 align="center">Hi 👋, I'm Dev Rai</h1>
+<h3 align="center">Final-Year Computer Engineering Student | C++ | DSA | SQL | Aspiring Software Engineer</h3>
 
-<!---
-Dev16rai/Dev16rai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" alt="Coding" width="350"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 👨‍💻 About Me
+
+- 🎓 Final-Year Computer Engineering Student
+- 💻 Currently learning **C++, Data Structures & Algorithms**
+- 🌱 Practicing **SQL, Git & GitHub**
+- 🚀 Interested in Software Development
+- 🎯 Goal: Crack Product-Based Company Placements
+- 📚 Learning every day and improving problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- ✅ C++
+- ✅ Data Structures & Algorithms
+- ✅ SQL
+- ✅ Git & GitHub
+- 🔜 Object-Oriented Programming
+- 🔜 System Design Basics
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev16rai&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev16rai&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dev16rai&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev16rai&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/Dev16rai">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dev-rai-1069b4256/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+✨ Thanks for visiting my profile! Happy Coding! 🚀!
