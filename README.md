@@ -38,15 +38,13 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="48" height="48"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/canva.svg" alt="Canva" width="48" height="48"/>
 </p>
+
+
+ 
 
 ---
 
