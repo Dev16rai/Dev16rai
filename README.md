@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Dev+Rai;Final-Year+Computer+Engineering+Student;C%2B%2B+%7C+DSA+%7C+SQL;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi ,I M Dev Rai Thanks+for+visiting+my+profile!;Happy+Coding" alt="Typing SVG" />
 </p>
+
 </p>
 <h3 align="center">Final-Year Computer Engineering Student | C++ | DSA | SQL | Aspiring Software Engineer</h3>
 
