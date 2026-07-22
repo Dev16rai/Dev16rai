@@ -106,5 +106,5 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+Visiting+❤️;Have+a+Great+Day!+☀️;Happy+Coding!+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀"/>
 </p>
