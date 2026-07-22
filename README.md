@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dev Rai</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi 👋, I'm Dev Rai" alt="Typing SVG" />
+</p>
 <h3 align="center">Final-Year Computer Engineering Student | C++ | DSA | SQL | Aspiring Software Engineer</h3>
 
 <img align="right" alt="Coding" width="350"
